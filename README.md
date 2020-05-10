@@ -1,1 +1,1 @@
-Contains the files for hailey.
+Contains the files for detectig brain tumor
